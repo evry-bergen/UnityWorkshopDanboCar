@@ -1,31 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9d1809c0-1d48-49c9-aef3-81994ffab1cf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Models/DanboCar.blend" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/DanboCar.blend.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/DanboCar.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/DanboCar.fbx.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/props.blend" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/props.blend.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/props.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/props.fbx.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Final/CardBoardCube.Long.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Final/CardBoardCube.Long.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Final/CardBoardCube.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Final/CardBoardCube.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Step 2/Wheels.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Step 2/Wheels.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Step 4/MissilePrefabStep4Done.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Step 4/MissilePrefabStep4Done.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Step 4/MissilePrefabStep4Start.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Step 4/MissilePrefabStep4Start.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/FinalScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/FinalScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Step 1 Scene 1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Step 1 Scene 1.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Step 2 Scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Step 2 Scene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Step 3 Scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Step 3 Scene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Step 4 Scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Step 4 Scene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Step 5 Scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Step 5 Scene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Step2/CarControllerTut.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Step2/CarControllerTut.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Step3/CameraFollowTut.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Step3/CameraFollowTut.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Step4/GunFireTut.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Step4/GunFireTut.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Step4/ProjectileTut.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Step4/ProjectileTut.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Step5/EnemyTut.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Step5/EnemyTut.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Step5/SceneControllerTut.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Step5/SceneControllerTut.cs" afterDir="false" />
-    </list>
+    <list default="true" id="9d1809c0-1d48-49c9-aef3-81994ffab1cf" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,11 +13,11 @@
       <content type="file-editors">
         <state>
           <leaf>
-            <file pinned="false" current-in-tab="true">
+            <file pinned="false" current-in-tab="false">
               <entry file="file://$PROJECT_DIR$/Assets/Scripts/Step2/CarControllerTut.cs">
                 <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="434">
-                    <caret line="14" selection-start-line="14" selection-end-line="14" selection-end-column="52" />
+                  <state relative-caret-position="248">
+                    <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
                     <folding>
                       <marker date="1606464811300" expanded="true" signature="6:104" ph="..." />
                       <marker date="1606464811300" expanded="true" signature="151:915" ph="{...}" />
@@ -114,7 +90,7 @@
                 </provider>
               </entry>
             </file>
-            <file pinned="false" current-in-tab="false">
+            <file pinned="false" current-in-tab="true">
               <entry file="file://$PROJECT_DIR$/Assets/Scripts/Step5/SceneControllerTut.cs">
                 <provider selected="true" editor-type-id="text-editor">
                   <state relative-caret-position="520">
@@ -142,7 +118,7 @@
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Step2/CarController.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-76">
-              <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+              <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
               <folding>
                 <marker date="1606385631437" expanded="false" signature="6:104" ph="..." />
                 <marker date="1606385631437" expanded="true" signature="148:2311" ph="{...}" />
@@ -179,7 +155,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Step5/SceneController.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="144">
@@ -196,11 +172,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Step3/CameraFollow.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+            <state relative-caret-position="360">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
               <folding>
                 <marker date="1606379177142" expanded="false" signature="6:78" ph="..." />
                 <marker date="1606379177142" expanded="true" signature="121:709" ph="{...}" />
@@ -220,20 +196,6 @@
                 <marker date="1606402485782" expanded="false" signature="6:78" ph="..." />
                 <marker date="1606402485782" expanded="true" signature="116:643" ph="{...}" />
                 <marker date="1606402485782" expanded="true" signature="307:639" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Step4/ProjectileTut.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-              <folding>
-                <marker date="1606465296332" expanded="false" signature="6:78" ph="..." />
-                <marker date="1606465296332" expanded="true" signature="122:411" ph="{...}" />
-                <marker date="1606465296332" expanded="true" signature="394:408" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -350,12 +312,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606321757554</updated>
-      <workItem from="1606321762772" duration="33509000" />
+      <workItem from="1606321762772" duration="34151000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33509000" />
+    <option name="totallyTimeSpent" value="34151000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -483,21 +445,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Step5/SceneController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
-          <folding>
-            <marker date="1606404209274" expanded="false" signature="6:152" ph="..." />
-            <marker date="1606404209274" expanded="true" signature="198:1061" ph="{...}" />
-            <marker date="1606404209274" expanded="true" signature="461:638" ph="{...}" />
-            <marker date="1606404209274" expanded="true" signature="682:919" ph="{...}" />
-            <marker date="1606404209274" expanded="true" signature="769:827" ph="{...}" />
-            <marker date="1606404209274" expanded="true" signature="950:1058" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Step4/Projectile.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24">
@@ -513,7 +460,7 @@
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Step2/CarController.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-76">
-          <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+          <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
           <folding>
             <marker date="1606385631437" expanded="false" signature="6:104" ph="..." />
             <marker date="1606385631437" expanded="true" signature="148:2311" ph="{...}" />
@@ -535,66 +482,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Step3/CameraFollow.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Step2/CarControllerTut.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+        <state relative-caret-position="248">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
           <folding>
-            <marker date="1606379177142" expanded="false" signature="6:78" ph="..." />
-            <marker date="1606379177142" expanded="true" signature="121:709" ph="{...}" />
-            <marker date="1606379177142" expanded="true" signature="296:369" ph="{...}" />
-            <marker date="1606379177142" expanded="true" signature="427:707" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Step5/SceneControllerTut.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-          <folding>
-            <marker date="1606465296343" expanded="false" signature="6:152" ph="..." />
-            <marker date="1606465296343" expanded="true" signature="201:1006" ph="{...}" />
-            <marker date="1606465296343" expanded="true" signature="476:489" ph="{...}" />
-            <marker date="1606465296343" expanded="true" signature="495:753" ph="/* Adds to the dead enemy count, also checks if dead enemies count is equal to the total amount of enemies, it sh ... */" />
-            <marker date="1606465296343" expanded="true" signature="796:809" ph="{...}" />
-            <marker date="1606465296343" expanded="true" signature="895:1003" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Step5/EnemyTut.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <marker date="1606465296374" expanded="false" signature="6:104" ph="..." />
-            <marker date="1606465296374" expanded="true" signature="143:338" ph="{...}" />
-            <marker date="1606465296374" expanded="true" signature="323:336" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Step4/ProjectileTut.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <marker date="1606465296332" expanded="false" signature="6:78" ph="..." />
-            <marker date="1606465296332" expanded="true" signature="122:411" ph="{...}" />
-            <marker date="1606465296332" expanded="true" signature="394:408" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Step4/GunFireTut.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <marker date="1606465296357" expanded="false" signature="6:114" ph="..." />
-            <marker date="1606465296357" expanded="true" signature="155:451" ph="{...}" />
-            <marker date="1606465296357" expanded="true" signature="433:447" ph="{...}" />
+            <marker date="1606464811300" expanded="true" signature="6:104" ph="..." />
+            <marker date="1606464811300" expanded="true" signature="151:915" ph="{...}" />
+            <marker date="1606464811300" expanded="true" signature="380:392" ph="{...}" />
+            <marker date="1606464811300" expanded="true" signature="447:461" ph="{...}" />
+            <marker date="1606464811300" expanded="true" signature="535:548" ph="{...}" />
+            <marker date="1606464811300" expanded="true" signature="639:651" ph="{...}" />
+            <marker date="1606464811300" expanded="true" signature="792:805" ph="{...}" />
+            <marker date="1606464811300" expanded="true" signature="898:911" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -613,19 +513,81 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Step2/CarControllerTut.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Step4/GunFireTut.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="14" selection-start-line="14" selection-end-line="14" selection-end-column="52" />
+        <state relative-caret-position="364">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
           <folding>
-            <marker date="1606464811300" expanded="true" signature="6:104" ph="..." />
-            <marker date="1606464811300" expanded="true" signature="151:915" ph="{...}" />
-            <marker date="1606464811300" expanded="true" signature="380:392" ph="{...}" />
-            <marker date="1606464811300" expanded="true" signature="447:461" ph="{...}" />
-            <marker date="1606464811300" expanded="true" signature="535:548" ph="{...}" />
-            <marker date="1606464811300" expanded="true" signature="639:651" ph="{...}" />
-            <marker date="1606464811300" expanded="true" signature="792:805" ph="{...}" />
-            <marker date="1606464811300" expanded="true" signature="898:911" ph="{...}" />
+            <marker date="1606465296357" expanded="false" signature="6:114" ph="..." />
+            <marker date="1606465296357" expanded="true" signature="155:451" ph="{...}" />
+            <marker date="1606465296357" expanded="true" signature="433:447" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Step5/EnemyTut.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <marker date="1606465296374" expanded="false" signature="6:104" ph="..." />
+            <marker date="1606465296374" expanded="true" signature="143:338" ph="{...}" />
+            <marker date="1606465296374" expanded="true" signature="323:336" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Step3/CameraFollow.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <marker date="1606379177142" expanded="false" signature="6:78" ph="..." />
+            <marker date="1606379177142" expanded="true" signature="121:709" ph="{...}" />
+            <marker date="1606379177142" expanded="true" signature="296:369" ph="{...}" />
+            <marker date="1606379177142" expanded="true" signature="427:707" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Step4/ProjectileTut.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <marker date="1606465296332" expanded="false" signature="6:78" ph="..." />
+            <marker date="1606465296332" expanded="true" signature="122:411" ph="{...}" />
+            <marker date="1606465296332" expanded="true" signature="394:408" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Step5/SceneController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+          <folding>
+            <marker date="1606404209274" expanded="false" signature="6:152" ph="..." />
+            <marker date="1606404209274" expanded="true" signature="198:1061" ph="{...}" />
+            <marker date="1606404209274" expanded="true" signature="461:638" ph="{...}" />
+            <marker date="1606404209274" expanded="true" signature="682:919" ph="{...}" />
+            <marker date="1606404209274" expanded="true" signature="769:827" ph="{...}" />
+            <marker date="1606404209274" expanded="true" signature="950:1058" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Step5/SceneControllerTut.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <marker date="1606465296343" expanded="false" signature="6:152" ph="..." />
+            <marker date="1606465296343" expanded="true" signature="201:1006" ph="{...}" />
+            <marker date="1606465296343" expanded="true" signature="476:489" ph="{...}" />
+            <marker date="1606465296343" expanded="true" signature="495:753" ph="/* Adds to the dead enemy count, also checks if dead enemies count is equal to the total amount of enemies, it sh ... */" />
+            <marker date="1606465296343" expanded="true" signature="796:809" ph="{...}" />
+            <marker date="1606465296343" expanded="true" signature="895:1003" ph="{...}" />
           </folding>
         </state>
       </provider>

@@ -3107,7 +3107,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 40
-  bullet: {fileID: 2080361657843337615, guid: 16588adb807cb9a45a2c6d392eb1ea53, type: 3}
+  bullet: {fileID: 8196033695425989447, guid: bb3cbf99b11b1a048bc2747d3eb0992c, type: 3}
   barrel: {fileID: 652708104}
   FireAudioSource: {fileID: 575873634}
   FireAudioClip: {fileID: 8300000, guid: f8e21d9ef64ac04409603aee93afb40c, type: 3}
@@ -4831,7 +4831,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 40
-  bullet: {fileID: 2080361657843337615, guid: 16588adb807cb9a45a2c6d392eb1ea53, type: 3}
+  bullet: {fileID: 8196033695425989447, guid: bb3cbf99b11b1a048bc2747d3eb0992c, type: 3}
   barrel: {fileID: 130381942}
   FireAudioSource: {fileID: 575873634}
   FireAudioClip: {fileID: 8300000, guid: f8e21d9ef64ac04409603aee93afb40c, type: 3}
